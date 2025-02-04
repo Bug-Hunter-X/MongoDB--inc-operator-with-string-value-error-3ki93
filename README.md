@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in MongoDB update operations using the $inc operator.  The error arises from providing a string value instead of a numeric value to the $inc operator. This leads to an unexpected result. The solution provides the correct implementation using a numeric value for the increment.
